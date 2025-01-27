@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'i18n/tasks/key_pattern_matching'
+
 module I18n::Tasks
   module Command
     module Commands

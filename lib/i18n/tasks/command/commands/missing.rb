@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'i18n/tasks/command/collection'
+require 'i18n/tasks/missing_keys'
 
 module I18n::Tasks
   module Command
